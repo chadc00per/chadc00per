@@ -1,5 +1,6 @@
 # Making things I hope you'll find fun.
 
+Contact:
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chad@playset.co) 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chadc00p)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chadcoop)
